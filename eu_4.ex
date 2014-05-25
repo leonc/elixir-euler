@@ -22,9 +22,6 @@ defmodule Problem_4 do
     end
   end
 
-  def solve(x,y,y_for_next_x) do 
-  end
-
   def solve() do
     solve(100,100,100)
   end
